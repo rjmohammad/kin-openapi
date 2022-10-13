@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/getkin/rjmohammad/jsoninfo"
+	"github.com/rjmohammad/kin-openapi/jsoninfo"
 )
 
 // Servers is specified by OpenAPI/Swagger standard version 3.

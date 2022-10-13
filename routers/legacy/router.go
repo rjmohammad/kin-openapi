@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/getkin/rjmohammad/openapi3"
-	"github.com/getkin/rjmohammad/routers"
-	"github.com/getkin/rjmohammad/routers/legacy/pathpattern"
+	"github.com/rjmohammad/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/routers"
+	"github.com/rjmohammad/kin-openapi/routers/legacy/pathpattern"
 )
 
 // Routers maps a HTTP request to a Router.

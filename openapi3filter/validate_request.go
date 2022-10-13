@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/getkin/rjmohammad/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // ErrAuthenticationServiceMissing is returned when no authentication service

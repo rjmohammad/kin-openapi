@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-openapi/jsonpointer"
 
-	"github.com/getkin/rjmohammad/jsoninfo"
+	"github.com/rjmohammad/kin-openapi/jsoninfo"
 )
 
 // MediaType is specified by OpenAPI/Swagger 3.0 standard.

@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/getkin/rjmohammad/openapi2"
-	"github.com/getkin/rjmohammad/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi2"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // ToV3 converts an OpenAPIv2 spec to an OpenAPIv3 spec

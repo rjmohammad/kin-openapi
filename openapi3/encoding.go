@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/getkin/rjmohammad/jsoninfo"
+	"github.com/rjmohammad/kin-openapi/jsoninfo"
 )
 
 // Encoding is specified by OpenAPI/Swagger 3.0 standard.

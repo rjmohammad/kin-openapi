@@ -3,7 +3,7 @@ package openapi3filter
 import (
 	"fmt"
 
-	"github.com/getkin/rjmohammad/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 var _ error = &RequestError{}

@@ -3,7 +3,7 @@ package openapi3
 import (
 	"context"
 
-	"github.com/getkin/rjmohammad/jsoninfo"
+	"github.com/rjmohammad/kin-openapi/jsoninfo"
 )
 
 // XML is specified by OpenAPI/Swagger standard version 3.

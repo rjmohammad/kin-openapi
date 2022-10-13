@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/getkin/rjmohammad/openapi3"
-	"github.com/getkin/rjmohammad/routers"
+	"github.com/rjmohammad/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/routers"
 )
 
 // ValidationErrorEncoder wraps a base ErrorEncoder to handle ValidationErrors
