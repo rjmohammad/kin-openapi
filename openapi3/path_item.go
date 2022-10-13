@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
+	"github.com/getkin/rjmohammad/jsoninfo"
 )
 
 // PathItem is specified by OpenAPI/Swagger standard version 3.

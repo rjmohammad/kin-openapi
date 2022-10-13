@@ -3,7 +3,7 @@ package openapi3
 import (
 	"context"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
+	"github.com/getkin/rjmohammad/jsoninfo"
 )
 
 // Discriminator is specified by OpenAPI/Swagger standard version 3.

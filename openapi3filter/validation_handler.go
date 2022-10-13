@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/getkin/kin-openapi/routers"
-	legacyrouter "github.com/getkin/kin-openapi/routers/legacy"
+	"github.com/getkin/rjmohammad/openapi3"
+	"github.com/getkin/rjmohammad/routers"
+	legacyrouter "github.com/getkin/rjmohammad/routers/legacy"
 )
 
 // AuthenticationFunc allows for custom security requirement validation.

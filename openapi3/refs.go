@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-openapi/jsonpointer"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
+	"github.com/getkin/rjmohammad/jsoninfo"
 )
 
 // Ref is specified by OpenAPI/Swagger 3.0 standard.

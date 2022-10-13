@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
+	"github.com/getkin/rjmohammad/jsoninfo"
 )
 
 // Components is specified by OpenAPI/Swagger standard version 3.

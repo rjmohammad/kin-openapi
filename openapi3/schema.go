@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/jsonpointer"
 	"github.com/mohae/deepcopy"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
+	"github.com/getkin/rjmohammad/jsoninfo"
 )
 
 const (
